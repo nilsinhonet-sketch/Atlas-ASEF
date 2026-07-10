@@ -24,4 +24,6 @@ Responsável pela inteligência do framework.
 
 Projects
 
-Responsável pelos projetos desenvolvidos.
+Responsável pelos projetos desenvolvidos.# LAYERS
+
+Atlas ASEF utiliza arquitetura em camadas.
